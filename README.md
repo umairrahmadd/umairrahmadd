@@ -13,9 +13,9 @@
  🗣️ Languages I Use & Learn:
 
 <ul>
-  <li><strong>🇬🇧 English:</strong> Fluent — used for documentation, tutorials, and collaboration</li>
-  <li><strong>🇵🇰 Urdu:</strong> Native — used for bilingual explanations and community support</li>
-  <li><strong>🇩🇪 German:</strong> Learning — currently improving vocabulary and grammar</li>
+  <li><strong> English:</strong> Fluent — used for documentation, tutorials, and collaboration</li>
+  <li><strong> Urdu:</strong> Native — used for bilingual explanations and community support</li>
+  <li><strong> German:</strong> Learning — currently improving vocabulary and grammar</li>
 </ul>
 
 
