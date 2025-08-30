@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=umairrahmadd&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=umairrahmadd&theme=github_dark&hide_border=false)<br/>
-j 🗣️ Languages I Use & Learn:
+ 🗣️ Languages I Use & Learn:
 
 <ul>
   <li><strong>🇬🇧 English:</strong> Fluent — used for documentation, tutorials, and collaboration</li>
