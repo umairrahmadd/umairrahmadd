@@ -10,10 +10,14 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=umairrahmadd&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=umairrahmadd&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=umairrahmadd&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br>
-🗣️ Languages I use or learn: **English**, **Urdu**, **German**
+> 🗣️ Spoken Languages Usage:
+> German — 30% (Learning)  
+> English — 100% (Fluent)  
+> Urdu — 100% (Native)
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=umairrahmadd&icon=7&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
