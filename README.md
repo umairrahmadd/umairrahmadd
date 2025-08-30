@@ -4,7 +4,6 @@
 
 💬 Ask me about<br>EC2, IAM, Auto Scaling, Control Tower, AWS Organizations, VPC, S3, DNS, RDS, DynamoDB, Athena, ECS, EKS, and file storage systems — I’ve studied them all and love breaking them down into simple, actionable steps.<br><br>⚡ Fun fact<br>Previously, I built a complete 3-tier application with a Web Tier, App Tier, and Database Tier — and documented every step to understand the “why” behind each architectural choice.<br>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/90022a125b3f48a86347377fd23a07de09f4af96ca6d032ab3dd00acbfebe0a9/68747470733a2f2f70726f6772616d696e672d676966732e76657263656c2e6170702f" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umair-ahmad-8b86b436a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umairaliahmad17@gmail.com) [![X](https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white)](https://x.com/umairrrahmaddd)[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/1328400471395794965)
