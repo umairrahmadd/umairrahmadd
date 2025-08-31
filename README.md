@@ -1,4 +1,6 @@
-![logo](https://media.licdn.com/dms/image/v2/C5616AQG376JraamXZQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1625149958627?e=2147483647&v=beta&t=pooJGjQzYl1QMwNsevOWHoptI_kzYAe4Q4LGAAKvid0)
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/C5616AQG376JraamXZQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1625149958627?e=2147483647&v=beta&t=pooJGjQzYl1QMwNsevOWHoptI_kzYAe4Q4LGAAKvid0" alt="logo" width="100%" />
+</p>
 <p align="center">
   <a href="https://x.com/umairrrahmaddd" target="_blank">
   <img src="https://github.com/umairrahmadd/umairrahmadd/blob/main/X%20logo.png?raw=true" alt="X" height="50" width="40" style="margin: 0 8px;" />
