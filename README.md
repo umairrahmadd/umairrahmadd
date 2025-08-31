@@ -66,6 +66,7 @@
   <li><strong> German:</strong> Learning — currently improving vocabulary and grammar</li>
 </ul>
 
+![Snake gif](https://github.com/umairrahmadd/umairrahmadd/blob/output/github-snake-dark.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=umairrahmadd&icon=7&color=4)](https://visitcount.itsvg.in)
