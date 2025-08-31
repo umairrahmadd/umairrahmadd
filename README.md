@@ -19,8 +19,8 @@
 <a href="https://discordapp.com/users/1328400471395794965" target="_blank">
   <img align="center" src="https://github.com/umairrahmadd/umairrahmadd/blob/main/discordd.png?raw=true" alt="Discord" height="30" width="30" />
 </a>
-  <a href="mailto:umairaliahmad17@gmail.com" target="_blank">
-  <img align="center" src="https://github.com/umairrahmadd/umairrahmadd/blob/main/gmail-removebg-preview.png?raw=true" alt="Email" height="30" width="40" />
+<a href="mailto:umairrahmadd@gmail.com" target="_blank">
+  <img align="center" src="https://github.com/umairrahmadd/umairrahmadd/blob/main/gmaill.png?raw=true" alt="Gmail" height="30" width="40" />
 </a>
 </p>
 
