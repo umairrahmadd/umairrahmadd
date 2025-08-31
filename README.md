@@ -49,9 +49,7 @@
 <a href="https://github.com/umairrahmadd/umairrahmadd/blob/main/kubernetes.webp" target="_blank">
   <img align="center" src="https://github.com/umairrahmadd/umairrahmadd/raw/main/kubernetes.webp" alt="Kubernetes" height="80" width="45" />
 </a>
-<a href="https://github.com/umairrahmadd/umairrahmadd/blob/main/Python.jpg" target="_blank">
-  <img align="center" src="https://github.com/umairrahmadd/umairrahmadd/raw/main/Python.jpg" alt="Python" height="50" width="50" />
-</a>
+
 
 
  🗣️ Languages I Use & Learn:
