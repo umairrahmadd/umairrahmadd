@@ -63,7 +63,8 @@
   
   <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/cloudwatch%20log.png" alt="CloudWatch" height="50" width="40"/>&nbsp;&nbsp;
 <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/terraform%20.png" alt="Terraform" height="50" width="40" />&nbsp;&nbsp;
-<img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/jenkins.png" alt="Jenkins" height="50" width="40" />
+<img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/jenkins.png" alt="Jenkins" height="50" width="40" />&nbsp;&nbsp;
+<img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/github.png" alt="GitHub" height="50" width="40" />
 
 </div>
 
