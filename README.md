@@ -40,6 +40,11 @@
 
 
 # Tech Stack:
+<a href="https://github.com/umairrahmadd/umairrahmadd/blob/main/aws-logo-icon.avif" target="_blank">
+  <img align="center" src="https://github.com/umairrahmadd/umairrahmadd/raw/refs/heads/main/aws-logo-icon.avif" alt="AWS" height="60" width="40" />
+</a>
+
+
 
  🗣️ Languages I Use & Learn:
 
