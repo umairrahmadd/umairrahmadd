@@ -8,7 +8,9 @@
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://twitter.com/umairrrahmaddd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umairrrahmaddd" height="30" width="40" /></a>
+<a href="https://x.com/umairrrahmaddd" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/umairrahmadd/umairrahmadd/main/X.jpg" alt="X" height="30" width="40" />
+</a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/umair-ahmad-8b86b436a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/umair-ahmad-8b86b436a" height="30" width="40" /></a>
 <a href="https://medium.com/@umairiqrar20" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/umairrahmadd/umairrahmadd/main/medium.png" alt="Medium" height="30" width="40" />
