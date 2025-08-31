@@ -1,20 +1,20 @@
 ![logo](https://media.licdn.com/dms/image/v2/C5616AQG376JraamXZQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1625149958627?e=2147483647&v=beta&t=pooJGjQzYl1QMwNsevOWHoptI_kzYAe4Q4LGAAKvid0)
 <p align="center">
   <a href="https://x.com/umairrrahmaddd" target="_blank">
-    <img src="https://raw.githubusercontent.com/umairrahmadd/umairrahmadd/main/X.jpg" alt="X" height="60" width="60" style="margin: 0 8px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/umair-ahmad-8b86b436a" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" style="margin: 0 8px;" />
-  </a>
+  <img src="https://github.com/umairrahmadd/umairrahmadd/blob/main/X%20logo.png?raw=true" alt="X" height="60" width="60" style="margin: 0 8px;" />
+</a>
+<a href="https://www.linkedin.com/in/umair-ahmad-8b86b436a" target="_blank">
+  <img src="https://github.com/umairrahmadd/umairrahmadd/blob/main/linkedin%20logo%20.png?raw=true" alt="LinkedIn" height="40" width="40" style="margin: 0 8px;" />
+</a>
   <a href="https://medium.com/@umairiqrar20" target="_blank">
-    <img src="https://raw.githubusercontent.com/umairrahmadd/umairrahmadd/main/medium.png" alt="Medium" height="60" width="50" style="margin: 0 8px;" />
-  </a>
-  <a href="https://discord.com/users/1328400471395794965" target="_blank">
-    <img src="https://github.com/umairrahmadd/umairrahmadd/blob/main/discordd.png?raw=true" alt="Discord" height="40" width="50" style="margin: 0 8px;" />
-  </a>
+  <img src="https://github.com/umairrahmadd/umairrahmadd/blob/main/Medium%20.png?raw=true" alt="Medium" height="60" width="50" style="margin: 0 8px;" />
+</a>
+ <a href="https://discord.com/users/1328400471395794965" target="_blank">
+  <img src="https://github.com/umairrahmadd/umairrahmadd/blob/main/discord.png?raw=true" alt="Discord" height="40" width="50" style="margin: 0 8px;" />
+</a>
   <a href="mailto:umairaliahmad17@gmail.com">
-    <img src="https://github.com/umairrahmadd/umairrahmadd/blob/main/gmaill.png?raw=true" alt="Gmail" height="50" width="50" style="margin: 0 8px;" />
-  </a>
+  <img src="https://github.com/umairrahmadd/umairrahmadd/blob/main/Email.png?raw=true" alt="Gmail" height="50" width="50" style="margin: 0 8px;" />
+</a>
 </p>
 
  # About Me:
