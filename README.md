@@ -56,8 +56,8 @@
 </div>
 
 
-
- 🗣️ Languages I Use & Learn:
+<br>
+<h2><strong>🗣️ Communication Skills</strong></h2>
 
 <ul>
   <li><strong> English:</strong> Fluent — used for documentation, tutorials, and collaboration</li>
