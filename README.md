@@ -39,7 +39,7 @@
 
 
 
-# Tech Stack:
+# Tools & Programming Languages:
 <div align="left">
 
   <!-- First Row -->
