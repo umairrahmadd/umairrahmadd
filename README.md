@@ -55,7 +55,8 @@
   <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/C%2B%2B.png" alt="C++" height="50" width="40" />&nbsp;&nbsp;
   <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/mongodb%20l.png" alt="MongoDB" height="50" width="40" />&nbsp;&nbsp;
   <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/aurora%20.png" alt="Aurora" height="50" width="40" />&nbsp;&nbsp;
-  <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/MySQL.png" alt="MySQL" height="50" width="40" />
+  <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/MySQL.png" alt="MySQL" height="50" width="40" />&nbsp;&nbsp;
+  <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/cloudformation.png" alt="CloudFormation" height="50" width="40" />
 
 </div>
 
