@@ -40,15 +40,24 @@
 
 
 # Tech Stack:
-<a href="https://github.com/umairrahmadd/umairrahmadd/blob/main/aws-logo-icon.avif" target="_blank">
-  <img align="center" src="https://github.com/umairrahmadd/umairrahmadd/raw/refs/heads/main/aws-logo-icon.avif" alt="AWS" height="50" width="40" />
-</a>
-<a href="https://github.com/umairrahmadd/umairrahmadd/blob/main/docker.jpg" target="_blank">
-  <img align="center" src="https://github.com/umairrahmadd/umairrahmadd/raw/main/docker.jpg" alt="Docker" height="50" width="40" />
-</a>
-<a href="https://github.com/umairrahmadd/umairrahmadd/blob/main/kubernetes.webp" target="_blank">
-  <img align="center" src="https://github.com/umairrahmadd/umairrahmadd/raw/main/kubernetes.webp" alt="Kubernetes" height="80" width="45" />
-</a>
+<div align="left">
+
+  <!-- First Row -->
+  <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/aws-logo-icon.avif" alt="AWS" height="50" width="40" />&nbsp;&nbsp;
+  <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/docker.jpg" alt="Docker" height="50" width="40" />&nbsp;&nbsp;
+  <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/kubernetes.webp" alt="Kubernetes" height="50" width="40" />&nbsp;&nbsp;
+  <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/JavaScript.png" alt="JavaScript" height="50" width="40" />&nbsp;&nbsp;
+  <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/Linux.png" alt="Linux" height="50" width="40" />&nbsp;&nbsp;
+  <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/git%20.png" alt="Git" height="50" width="40" />
+  <br>
+  <!-- Second Row -->
+  <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/python%20.png" alt="Python" height="50" width="40" />&nbsp;&nbsp;
+  <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/C%2B%2B.png" alt="C++" height="50" width="40" />&nbsp;&nbsp;
+  <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/mongodb%20l.png" alt="MongoDB" height="50" width="40" />&nbsp;&nbsp;
+  <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/aurora%20.png" alt="Aurora" height="50" width="40" />&nbsp;&nbsp;
+  <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/MySQL.png" alt="MySQL" height="50" width="40" />
+
+</div>
 
 
 
