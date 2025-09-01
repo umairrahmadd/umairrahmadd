@@ -48,7 +48,6 @@
   <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/aws-logo-icon.avif" alt="AWS" height="50" width="40" />&nbsp;&nbsp;
   <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/docker.jpg" alt="Docker" height="50" width="40" />&nbsp;&nbsp;
   <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/kubernetes.webp" alt="Kubernetes" height="70" width="40" />&nbsp;&nbsp;
-  <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/JavaScript.png" alt="JavaScript" height="40" width="40" />&nbsp;&nbsp;
   <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/Linux.png" alt="Linux" height="50" width="40" />&nbsp;&nbsp;
   <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/git%20.png" alt="Git" height="50" width="40" />
   <br>
@@ -58,9 +57,8 @@
   <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/mongodb%20l.png" alt="MongoDB" height="50" width="40" />&nbsp;&nbsp;
   <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/aurora%20.png" alt="Aurora" height="50" width="40" />&nbsp;&nbsp;
   <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/MySQL.png" alt="MySQL" height="50" width="40" />&nbsp;&nbsp;
-  <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/cloudformation.png" alt="CloudFormation" height="50" width="40"/>&nbsp;&nbsp;
   <br>
-  
+   <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/cloudformation.png" alt="CloudFormation" height="50" width="40"/>&nbsp;&nbsp;
   <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/cloudwatch%20log.png" alt="CloudWatch" height="50" width="40"/>&nbsp;&nbsp;
 <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/terraform%20.png" alt="Terraform" height="50" width="40" />&nbsp;&nbsp;
 <img src="https://github.com/umairrahmadd/umairrahmadd/raw/main/jenkins.png" alt="Jenkins" height="50" width="40" />&nbsp;&nbsp;
