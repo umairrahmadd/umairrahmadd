@@ -37,7 +37,7 @@
 </div>
 
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/90022a125b3f48a86347377fd23a07de09f4af96ca6d032ab3dd00acbfebe0a9/68747470733a2f2f70726f6772616d696e672d676966732e76657263656c2e6170702f" />
+<img align="right" alt="coding" width="400" src="coding.jfif" />
 
 
 
