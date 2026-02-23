@@ -37,8 +37,7 @@
 </div>
 
 
-<img align="right" alt="coding" width="400" src="coding.jfif" />
-
+<img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyYWY4aDJsYWc1N214NmsxNjQzNXplaTlicnRlaW90MDAzd3ByeHR6ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jTNG3RF6EwbkpD4LZx/giphy.gif" align="right" width="400" alt="coding gif">
 
 
 # Tools & Programming Languages:
